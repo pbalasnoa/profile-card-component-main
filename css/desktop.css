@@ -1,0 +1,12 @@
+.card{
+  width: 380px;
+  height: 400px;
+}
+
+.bg-pattern__top{
+  transform: translate(-54%, -60%);
+}
+
+.bg-pattern__bottom{
+  transform: translate(43%, 76%);
+}
